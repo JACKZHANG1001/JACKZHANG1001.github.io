@@ -1,0 +1,6 @@
+# Jekyll configuration
+name: Baozhe's Wanderings
+description: Personal blog
+url: "http://JACKZHANG1001.github.io"
+markdown: kramdown
+highlighter: rouge
