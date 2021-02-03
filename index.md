@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Baozhe's Blog
 ---
 
 # Hello world!
