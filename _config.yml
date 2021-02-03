@@ -1,7 +1,5 @@
-# Jekyll configuration
-name: Baozhe's Wanderings
-description: Personal blog
-url: "http://JACKZHANG1001.github.io"
-markdown: kramdown
-highlighter: rouge
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
