@@ -8,4 +8,4 @@ My initial plan is to read 15 pages per book per day. Wish myself luck.
 
 # June 3, 2021
 
-[Back](./)
+[Back](/)
